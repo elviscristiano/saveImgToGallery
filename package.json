@@ -1,0 +1,24 @@
+{
+  "name": "savetophotoalbum",
+  "version": "1.0.0",
+  "description": "Save images from the web into the photo gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviscristiano/saveImgToGallery.git"
+  },
+  "keywords": [
+    "save",
+    "images",
+    "gallery"
+  ],
+  "author": "Elvis Tolotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elviscristiano/saveImgToGallery/issues"
+  },
+  "homepage": "https://github.com/elviscristiano/saveImgToGallery#readme"
+}
